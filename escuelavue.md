@@ -2,7 +2,7 @@
 
 Te encuentras en una comunidad cuya **finalidad principal es compartir conocimientos sobre Vue y desarrollo Web** para ayudar a otras personas a avanzar y mejorar como profesionales digitales y, por supuesto, para aprender uno mismo con las valiosas experiencias y opinones de otros profesionales.
 
-La comunidad está construida en torno a Escuela Vue: una plataforma online creada por @juanwmedia (http://www.wmedia.es) donde cada semana son publicados screencasts que tienen como tema principal Vue y desarrollo Web moderno
+La comunidad está construida en torno a Escuela Vue: una plataforma online creada por @juanwmedia (http://www.wmedia.es) donde cada semana son publicados screencasts centrados en Vue, JavaScript y desarrollo Web moderno
 
 ## Objetivo
 En la comunidad queremos recoger el mayor número de personas que contribuyan al enriquecimiento de la comunidad aportando información, puntos de vista y recursos que ayuden al resto de personas. Por este motivo creemos que es necesario crear un entorno en que todas las personas que lo forman se sientan cómodas y puedan participar de forma libre en un ambiente agradable y acogedor.
